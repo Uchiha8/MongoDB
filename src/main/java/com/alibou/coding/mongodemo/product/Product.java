@@ -18,4 +18,5 @@ public class Product {
     private String name;
     private String description;
     private List<String> tags;
+
 }
